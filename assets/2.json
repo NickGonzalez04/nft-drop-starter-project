@@ -1,0 +1,21 @@
+{
+    "name": "Solana Jamz X NFT",
+    "symbol": "VBZ",
+    "description": "Top 5 Spofity Jamz as NFTs",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2tUL6dZf1mywCj5WvCPZw6",
+          "type": "audio/mp3"
+        }
+      ],
+      "category": "audio",
+      "creators": [
+        {
+          "address": "FkZmak4K5JkDDXPm62JZ2JcpwmonnXSKjoR7VV8ynLqF",
+          "share": 100
+        }
+      ]
+    }
+  }
